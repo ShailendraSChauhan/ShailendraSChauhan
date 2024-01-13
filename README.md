@@ -16,7 +16,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 <code><img height="20" alt="python" src=""></code>
 <code><img height="20" alt="machine learning" src=""></code>
-<code><img height="20" alt="artificial intelligence" src="https://raw.githubusercontent.com/github/explore/6dd3d9363c2a955491a0ef6dcefaebbc7ce4ae6b/topics/artificial-intelligence/artificial-intelligence.png"></code>
+<code><img height="20" alt="artificial intelligence" src="https://lh3.googleusercontent.com/-1ZOHnKG79WU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfgyhdYrrKetIPmAFcKnZgZt3060w/s128-c0x00000000-cc-rp-mo/photo.jpg"></code>
 <code><img height="20" alt="data science" src="https://raw.githubusercontent.com/github/explore/6dd3d9363c2a955491a0ef6dcefaebbc7ce4ae6b/topics/data-science/data-science.png"></code>
 <code><img height="20" alt="finance" src=""></code>
 
