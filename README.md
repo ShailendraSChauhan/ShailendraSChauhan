@@ -1,10 +1,36 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shailendra Singh Chauhan
-================================================================================================================================================
-<p align="center">
-  <img width="100%" alt="I'm passionate about ML and AI!" src="https://your-image-url.com" />
-</p>
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shailendra !!!
+==============================================================================================================================================
+
+**About me**
+
+- 💼 Currently exploring opportunities in the ML/AI domain
+
+- 📈 Contributed to projects in ML and AI, exploring new possibilities
+
+- 💹 Experienced in financial markets, combining expertise in ML/AI with financial insights
+
+- ❤️ I love working with algorithms, data, and building intelligent systems
+
+- 💬 Let's connect on [LinkedIn](https://in.linkedin.com/in/shailendrachauhansingh?trk=profile-badge)
+
+
+<code><img height="20" alt="python" src=""></code>
+<code><img height="20" alt="machine learning" src=""></code>
+<code><img height="20" alt="artificial intelligence" src="https://raw.githubusercontent.com/github/explore/6dd3d9363c2a955491a0ef6dcefaebbc7ce4ae6b/topics/artificial-intelligence/artificial-intelligence.png"></code>
+<code><img height="20" alt="data science" src="https://raw.githubusercontent.com/github/explore/6dd3d9363c2a955491a0ef6dcefaebbc7ce4ae6b/topics/data-science/data-science.png"></code>
+<code><img height="20" alt="finance" src=""></code>
+
+<!--
+
+| <a href="https://github.com/ShailendraSChauhan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShailendraSChauhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shailendra's github stats" /></a> | <a href="https://github.com/ShailendraSChauhan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailendraSChauhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br />
+<br />
+
+
+-->
+
 ### Skills
 
 
