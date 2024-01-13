@@ -1,4 +1,4 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shailendra !!!
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shailendra !!!  <code><img height="50" alt="artificial intelligence" src="https://lh3.googleusercontent.com/-1ZOHnKG79WU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfgyhdYrrKetIPmAFcKnZgZt3060w/s128-c0x00000000-cc-rp-mo/photo.jpg"></code>
 ==============================================================================================================================================
 
 **About me**
@@ -11,14 +11,9 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 - ❤️ I love working with algorithms, data, and building intelligent systems
 
-- 💬 Let's connect on [LinkedIn](https://in.linkedin.com/in/shailendrachauhansingh?trk=profile-badge)
+- 💬 Let's connect on [<code><img height="30" alt="LinkedIn" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"></code>](https://in.linkedin.com/in/shailendrachauhansingh)
 
 
-<code><img height="20" alt="python" src=""></code>
-<code><img height="20" alt="machine learning" src=""></code>
-<code><img height="20" alt="artificial intelligence" src="https://lh3.googleusercontent.com/-1ZOHnKG79WU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfgyhdYrrKetIPmAFcKnZgZt3060w/s128-c0x00000000-cc-rp-mo/photo.jpg"></code>
-<code><img height="20" alt="data science" src="https://raw.githubusercontent.com/github/explore/6dd3d9363c2a955491a0ef6dcefaebbc7ce4ae6b/topics/data-science/data-science.png"></code>
-<code><img height="20" alt="finance" src=""></code>
 
 <!--
 
