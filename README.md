@@ -11,7 +11,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 - ❤️ I love working with algorithms, data, and building intelligent systems
 
-- 💬 Let's connect on [<code><img height="30" alt="LinkedIn" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"></code>](https://in.linkedin.com/in/shailendrachauhansingh)
+- 💬 Let's connect on [<code><img height="30" alt="LinkedIn" src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-logo-5476201-4602452.png"></code>](https://in.linkedin.com/in/shailendrachauhansingh)
 
 
 
